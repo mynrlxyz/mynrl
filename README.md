@@ -6,9 +6,9 @@
 
 - [Website](https://www.mynrl.xyz/)
 - [Whitepaper](https://github.com/mynrlxyz/evolveRL/blob/main/mynrl-whitepaper.pdf)
-- [Techpaper](https://github.com/mynrlxyz/evolveRL/blob/main/mynrl-techpaper.pdf)
-- [Telegram](https://t.me/evolveRL)
-- [Twitter/X](https://x.com/evolveRL_sol)
+- [Techpaper](https://github.com/mynrlxyz/blob/main/mynrl-techpaper.pdf)
+- [Telegram](https://t.me/mynrlportal)
+- [Twitter/X](https://x.com/mynrlsol)
 
 ## 📚 Table of Contents
 
@@ -483,8 +483,8 @@ MIT License - see LICENSE file for details
 ```bibtex
 @software{mynrl2024,
     title={MynRL: Evolutionary Reinforcement Learning for LLMs},
-    author={mynrlxyz},
+    author={TheHandsomeDev},
     year={2025},
-    url={https://www.mynrl.xyz/}
+    url={https://www.mynrl.com/}
 }
 ```
