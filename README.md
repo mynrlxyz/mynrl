@@ -5,8 +5,8 @@
 ## Links
 
 - [Website](https://www.mynrl.xyz/)
-- [Whitepaper](https://github.com/mynrlxyz/evolveRL/blob/main/mynrl-whitepaper.pdf)
-- [Techpaper](https://github.com/mynrlxyz/blob/main/mynrl-techpaper.pdf)
+- [Whitepaper](https://github.com/mynrlxyz/blob/main/whitepaper.pdf)
+- [Techpaper](https://github.com/mynrlxyz/blob/main/research-paper.pdf)
 - [Telegram](https://t.me/mynrlportal)
 - [Twitter/X](https://x.com/mynrlsol)
 
@@ -477,3 +477,14 @@ MIT License - see LICENSE file for details
 3. Commit your changes
 4. Push to the branch
 5. Create a Pull Request
+
+## Citation
+
+```bibtex
+@software{mynrl2024,
+    title={MynRL: Evolutionary Reinforcement Learning for LLMs},
+    author={TheHandsomeDev},
+    year={2025},
+    url={https://www.mynrl.com/}
+}
+```
