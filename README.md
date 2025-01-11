@@ -477,14 +477,3 @@ MIT License - see LICENSE file for details
 3. Commit your changes
 4. Push to the branch
 5. Create a Pull Request
-
-## Citation
-
-```bibtex
-@software{mynrl2024,
-    title={MynRL: Evolutionary Reinforcement Learning for LLMs},
-    author={TheHandsomeDev},
-    year={2025},
-    url={https://www.mynrl.com/}
-}
-```
